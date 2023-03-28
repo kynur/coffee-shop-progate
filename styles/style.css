@@ -24,7 +24,7 @@ header {
   color: #f9fbfe;
   width: 100%;
   height: 700px;
-  background-image: url(/images/Coffe-Header.png);
+  background-image: url(./images/Coffe-Header.png);
   background-size: cover;
   border-radius: 30px;
   overflow: hidden;
